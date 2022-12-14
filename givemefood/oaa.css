@@ -1,0 +1,40 @@
+.oz{
+    overflow: hidden;
+    background-color: rgb(248, 242, 159);
+    border-radius: 10px;
+    margin: 0%;
+}
+.oz a{
+    float: left;
+    text-decoration: none;
+    padding: 15px 15px;
+    color: black;
+    font-size: 20px;
+}
+.oz-ko{
+    float: right;
+}
+.ozx{
+    width: 300px;
+    height: 50px;
+    font-size: 12pt;
+    background-color: rgba(124, 124, 124, 0.589);
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(250, 249, 249);
+    font-size: 12pt;
+}
+.of{
+width: 50%;
+padding: 20px 20px;
+background-color: rgba(169, 235, 64, 0.836);
+border-radius: 10px;
+box-shadow: 50%;
+}
+
+body{
+background-color: blanchedalmond;
+}
